@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymenteerify",
+        "uuid": 24648975,
+        "checksum": "fzcke7"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
